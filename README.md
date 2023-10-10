@@ -16,3 +16,7 @@ ___
 This file shows 20 rows of data containing the employee ID, employee full name, department (categorized into communications, sales and I.T), salary between $5000 to $25,000 and the job type which could be part-time, freelance or contract. 
 The headings were created in the columns and highlighted with a green background and white text for better differentiation and visibility. 
 The original data set i.e., without any manipulation was named "ORIGINAL" worksheet. 
+
+![](
+
+The second task was to depict only employees who were freelancers and to highlight those earning above $10,000. This was done by first filtering the data to show only freelancers after which conditional formatting was done to highlight those earning above $10,000. 
